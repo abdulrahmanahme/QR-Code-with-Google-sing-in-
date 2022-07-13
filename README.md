@@ -1,4 +1,4 @@
-# just_scan
+# QR-Code-with-Google-sing-in 
 
 A new Flutter application.
 
